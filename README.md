@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1421699446.svg)](https://doi.org/10.5281/zenodo.23410533)
+
 # Comparative Evaluation of Machine Learning Algorithms for Land Cover Classification Using Sentinel-2 Satellite Imagery over Addis Ababa Ethiopia
 
 Code accompanying the manuscript submitted to *Discover Earth Observation*.
